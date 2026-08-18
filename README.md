@@ -12,6 +12,8 @@ This project utilizes the **Factory Method Pattern**.
 
 1. Open your terminal or WSL Ubuntu environment.
 2. Navigate to the project directory:
+   ```bash
    cd lab_activity_4
-3. Run the automated unit tests:
+4. Run the automated unit tests:
+   ```bash
    python3 test_sensors.py
